@@ -1,0 +1,6 @@
+✅ PlatformRegistry     0x9347B84753f475960C00365EC7F1C7Fd3a7989F2
+✅ ResearchCollab       0xfB72641a3420E061e06cd6A6D0CfF568E859a42e
+✅ ConsultancyEscrow    0xFFa916a6730c1221a3846bba88DAB7f2d7291248
+✅ TradingIntelligence  0x955ee365A00234369A6F3c92BE9cD5734c730aBB
+✅ GamificationModule   0x1e4Bf31217dBecFB8f0361592BeF9d6F0c0bc33A
+✅ Frontend             https://dapp-platform-wheat.vercel.app
